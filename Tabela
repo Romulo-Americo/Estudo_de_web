@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt.br">
+  
+  <head>
+    <meta charset = "UTF 8">
+    <title>PROJETO</title>
+    <meta http-equiv="X-UA-Compatible" content="IE = edge"   
+  </head>
+    
+  <body>
+    <table>
+
+      <caption>Produzidos x Vendidos por loja</caption>
+
+      <colgroup>
+        <col>
+        <col sapan= "2" style="background-color: red;">
+        <col sapan= "2" style="background-color: blue;">
+      </colgroup>
+      
+      <thead>
+        
+        <tr>
+          <th> <rowspan="2"></th>
+        <th><colspan="2">Loja Afonso Pena</th>
+        <th><colspan="2">Loja Antônia Pereira</th>
+        </tr>
+        
+        <tr>
+          <th>Produzidos</th>
+          <th>Vendidos</th>
+          <th>Produzidos</th>
+          <th>Vendidos</th>
+        </tr>
+        
+      </thead>
+
+      <tbody>
+
+        <tr>
+          <th>Vassoura</th>
+          <td>50</td>
+          <td>30</td>
+          <td>20</td>
+          <td>30</td>
+        </tr>
+        <tr>
+        <th>Baldes</th>
+        <td>30</td>
+        <td>20</td>
+        <td>50</td>
+        <td>10</td>
+        </tr>
+      </tbody>
+      
+    </table>
+  </body>
+        
+</html>
+<!--
+Organizar melhor a tabela
+-->
