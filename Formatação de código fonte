@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt.br">
+  
+  <head>
+    <meta charset = "UTF 8">
+    <title>PROJETO</title>
+    <meta http-equiv="X-UA-Compatible" content="IE = edge"   
+  </head>
+    
+  <body>
+    <h1>Outras formatações</h1>
+    <h2>Código-fonte</h2>
+    <p>
+      Usando as tags apresentadas no código podemos deixar um 'exemplo de código' 'arrumado' para apresentar caso seja necessário 
+      <pre>
+        <code>
+          num = int(input('Digite um numero:\n'))
+          if num % 2 == 0:
+            print(f'O número {num} é PAR')
+          else:
+            print(f'O úmero {num} é ÍMPAR)
+        </code>
+      </pre>
+    </p>
+  </body>
+        
+</html>
