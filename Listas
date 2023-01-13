@@ -16,13 +16,38 @@
         <!--
             start = "" paramentro pra escolher em qual numeração que quisermos começar
         -->
+    </ol>
     <h2>Lista não Ordenadas</h2>
+    <ol>
     <ul type="square">
         <li>Acordar</li>
         <li>Tomar café</li>
         <li>Escovar os dentes</li>
     </ul>
     </ol>
+
+    <h2>Lista Mista</h2>
+    <ol type="a">
+    <li>Acordar</li>
+        <ol>
+            <li>Arrumar a cama</li>
+        </ol>
+    <li>Tomar café</li>
+        <ol>
+            <li>Pegar o pão</li>
+        </ol>
+    <li>Escovar os dentes</li>
+        <ol>
+            <li>Pegar a pasta de dentes</li>
+            <li>PEgar a escova de dentes</li>
+        </ol>
+    </ol>
+    <h2>Lista de Descrição</h2>
+    <dl>
+        <dt>Definição</dt>
+        <dd>Descrição</dd>
+    </dl>
+
     
 </body>
 </html>
