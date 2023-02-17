@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Cores em CSS</title>
+<body>
+    <!--Representação por nomes -->
+    <h1 style="background-color: blue; color: white;">Exemplo de cores</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora est perspiciatis quidem pariatur obcaecati dolores tenetur inventore? Recusandae impedit exercitationem accusantium. Provident labore omnis sequi assumenda fuga nemo sit necessitatibus.</p>
+
+    <!--Representação por código hexadecimal-->
+    <h2 style="background-color: #0000ff; color:#ffffff">Exemplo de cores</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora est perspiciatis quidem pariatur obcaecati dolores tenetur inventore? Recusandae impedit exercitationem accusantium. Provident labore omnis sequi assumenda fuga nemo sit necessitatibus.</p>
+
+    <!--Representação em RGB(Red, Green, Blue)-->
+    <h2 style="background-color: rgb(0, 0, 255); color: rgb(255, 255, 255);">Exemplo de cores</h2>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut aperiam voluptas consequatur velit rem quos architecto fuga in reprehenderit ex totam aut magni, dolorem a incidunt! Consequuntur repudiandae exercitationem fugiat.</p>
+    
+    <!--Representação por HSL(Hue, Saturation, Luminosity)-->
+    <h2 style="background-color: hsl(240, 100, 50); color: hsl(0, 0, 100);">Exemplo de cores</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora est perspiciatis quidem pariatur obcaecati dolores tenetur inventore? Recusandae impedit exercitationem accusantium. Provident labore omnis sequi assumenda fuga nemo sit necessitatibus.</p>
+    <!--Verificar se o estilo ainda está ativo ou obsoleto-->
+
+    <!--Escolhendo na palheta de cores do VS-->
+    <h2 style="background-color: rgb(11, 11, 116); color: rgb(128, 119, 119);">Exemplo de cores</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo aliquid quibusdam repellat iste perferendis ipsam dolor quod incidunt impedit atque voluptate odit non doloremque, est officia pariatur dicta laudantium nam!</p>
+</body>
+</html>
