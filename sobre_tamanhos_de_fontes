@@ -1,0 +1,26 @@
+@charset "UTF-8";
+body{
+    font-family: "Arial, Helvetica, sans-serif";
+    font-size: 16px;
+}
+ /* Tipos de medidas de fontes:
+    Medidas Absolutas
+    cm: centimentro 
+    mm: milimetro
+    in: polegada
+    px: pixel
+    pt: ponto
+    pc: paica
+
+    Medidas Relativas
+    em: Medida relativa ao tamanho da fonte
+    ex: Medida relativa ao tamanho da altura x
+    rem: Relativa a fonte configurada no corpo do documento
+    view: Medida relativa a largura da tela
+    vh: Altura relativa da view
+    
+    Medidas recomendas são: px e em
+    16 pixels é o tamanho padrão da fonte
+    16 pixels equivale 1 em
+    */
+
