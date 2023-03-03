@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Alinhamento de texto</title>
+    <style>
+        body{
+            font: normal, 16px Arial, Verdana, serif;
+            text-align: left;
+        }
+        h1{
+            text-align: center;
+        }
+        h2{
+            text-align: right;
+        }
+        p{
+            text-align: justify;
+            text-indent: 20px; /*Margem da primeira linha*/
+        }
+    </style>
+<body>
+   <h1>Tipos de alinhamento</h1>
+   <h2>Subtitulo</h2>
+   <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error, illum quod a libero quisquam molestias deserunt est vero eaque! Magnam sint blanditiis officia itaque ipsam facere id, labore eius impedit!Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae quisquam neque quidem dolores consectetur numquam eaque ut distinctio quod iure eveniet amet iusto facere, doloremque veniam laborum eum aliquam labore?
+   </p>
+</body>
+</html>
