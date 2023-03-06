@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+div
+{
+  display: inline-block;
+  background-color: lightgrey;
+  border: 1px solid black;
+  text-align: center;
+  height: 200px;
+  width: 200px;
+}
+div:hover/*as pseudos classes são relacionadas ao estado de um elementos*/
+{
+  background-color: aqua;/*hover é uma configuração de estado quando passamos o mouse por  cima*/
+}
+
